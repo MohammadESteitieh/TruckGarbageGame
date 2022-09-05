@@ -4,8 +4,17 @@ This is a basic arcade style game to play when bored. Coding Overlords, please b
 version 1
 date 2022 Sept 4
 
-made by moh.s. 
-contributers: L.G.
+made by Mohammad Steitieh and Luka Grahek
+Mohammad Steitieh:
+- Image Creation
+- Algorithm Creation
+- Implementation of Game Mechanics
+- Debugging
+
+Luka Grahek:
+- Image Editing
+- Implementation of Game Mechanics
+- Debugging
 
 INSTRUCTIONS:
-press play while in the Main.py
+Run Main.py
